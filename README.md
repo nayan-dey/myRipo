@@ -1,2 +1,3 @@
 # myRipo
-New Ripo
+new Ripo
+Nayan made some changes to this.
